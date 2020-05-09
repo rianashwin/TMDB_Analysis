@@ -1,0 +1,6 @@
+
+5000 movies: https://www.kaggle.com/tmdb/tmdb-movie-metadata
+45k+ movies: https://www.kaggle.com/rounakbanik/the-movies-dataset
+
+cpi: https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG
+gdp: https://data.worldbank.org/indicator/NY.GDP.MKTP.CD
